@@ -69,6 +69,7 @@ Some more technical information:
  module load python/2.7
  export PATH=/cm/local/apps/environment-modules/3.2.10/Modules/3.2.10/bin/:$PATH
  export ALIBUILD_WORK_DIR=/data1/software/alisoft
+ unset PYTHONPATH
 ```
    
    To load the environment before starting aliroot (you can also define an alias in your ``.bashrc`` file), use:
