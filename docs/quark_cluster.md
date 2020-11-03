@@ -78,7 +78,7 @@ Some more technical information:
 ```
 To define aliases, you can add for example the following to your ``.bashrc`` file:
 ```
-alias alienv=`alienv --architecture slc6_x86-64`
+alias alienv='alienv --architecture slc6_x86-64'
 alias ali='alienv enter --shellrc AliPhysics/latest-master-root6,AliRoot-OCDB/latest-release'
 ```
    
