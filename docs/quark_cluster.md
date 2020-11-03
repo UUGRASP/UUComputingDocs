@@ -74,6 +74,11 @@ Some more technical information:
    
    To load the environment before starting aliroot (you can also define an alias in your ``.bashrc`` file), use:
 ```bash
-    alienv enter --shellrc AliPhysics/latest-master-root6
+    alienv enter --architecture slc6_x86-64 --shellrc AliPhysics/latest-master-root6
+```
+To define aliases, you can add for example the following to your ``.bashrc`` file:
+```
+alias alienv=`alienv --architecture slc6_x86-64`
+alias ali='alienv enter --shellrc AliPhysics/latest-master-root6,AliRoot-OCDB/latest-release'
 ```
    
