@@ -21,6 +21,6 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
+      - run: pip install setuptools wheel twine click-man mkdocs-minify-plugin
       - run: pip install mkdocs-material 
-      - run: pip install setuptools wheel twine minify-html
       - run: mkdocs gh-deploy --force
