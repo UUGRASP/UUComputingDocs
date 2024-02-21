@@ -22,7 +22,5 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material 
-      - run: |
-        python -m pip install --upgrade pip
-        pip install setuptools wheel twine minify-html
+      - run: pip install setuptools wheel twine minify-html
       - run: mkdocs gh-deploy --force
