@@ -7,7 +7,7 @@ To get started, please select one of the topics below
 * [Desktop PCs in the student office](desktops.md)
 * [The quark cluster: running larger jobs](quark_cluster.md)
 * [Setting up AliRoot on your laptop](laptop_intro.md)
-* [Working remotely at the Nikhef server](https://codimd.web.cern.ch/bt5CCq7JQlCsDk5xT-EHrw#Setting-up-your-Visual-Studio-Code-remote)
+* [Working remotely at the Nikhef server](https://codimd.web.cern.ch/bt5CCq7JQlCsDk5xT-EHrw#Setting-up-your-Visual-Studio-Code-remote) or [link](https://sharemd.nikhef.nl/s/SxXNQ3LRo#)
 
 ## ROOT: our main data analysis tool
 
