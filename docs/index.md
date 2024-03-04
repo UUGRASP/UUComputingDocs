@@ -8,6 +8,7 @@ To get started, please select one of the topics below
 * [The quark cluster: running larger jobs](quark_cluster.md)
 * [Setting up AliRoot on your laptop](laptop_intro.md)
 * [Working remotely at the Nikhef server](https://codimd.web.cern.ch/bt5CCq7JQlCsDk5xT-EHrw#Setting-up-your-Visual-Studio-Code-remote) or [link](https://sharemd.nikhef.nl/s/SxXNQ3LRo#)
+* [Analysis at Nikhef](https://wiki.nikhef.nl/alice/AnalysisAtNikhef)
 
 ## ROOT: our main data analysis tool
 
